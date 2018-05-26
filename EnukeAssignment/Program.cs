@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -41,8 +42,14 @@ namespace EnukeAssignment
                     string OutputFilePath = @"..\..\ParseDigitData\output\";
                     string InputFileName = "input_user_story_1.txt";
                     string OutputFileName = "output_user_story_1.txt";
+                    DirectoryInfo DirInfo = new DirectoryInfo(OutputFilePath);
+                    if(!DirInfo.Exists)
+                    {
+                        DirInfo.Create();
+                    }
                     DigitalParser parser = new DigitalParser(InputFilePath + InputFileName, OutputFilePath + OutputFileName);
                     parser.ProcessDigits();
+                    Console.WriteLine("\n Output has been generated... Please check at : "+DirInfo.Parent.Parent+ OutputFilePath.Substring(5) + OutputFileName +"\n");
                     break;
                 default :
                     Console.WriteLine("\n Invalid Choice ..Please try again");
