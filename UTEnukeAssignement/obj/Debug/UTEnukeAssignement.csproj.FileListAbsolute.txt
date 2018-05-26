@@ -15,3 +15,5 @@ C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\obj\Debug\UTEnukeA
 C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\obj\Debug\UTEnukeAssignement.csproj.CopyComplete
 C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\obj\Debug\UTEnukeAssignement.dll
 C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\obj\Debug\UTEnukeAssignement.pdb
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\bin\Debug\UTEnukeAssignement.dll.CodeAnalysisLog.xml
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\bin\Debug\UTEnukeAssignement.dll.lastcodeanalysissucceeded

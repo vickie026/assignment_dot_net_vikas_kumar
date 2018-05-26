@@ -1,7 +1,8 @@
 c:\users\dell\source\repos\EnukeAssignment\EnukeAssignment\bin\Debug\EnukeAssignment.exe.config
 c:\users\dell\source\repos\EnukeAssignment\EnukeAssignment\bin\Debug\EnukeAssignment.exe
 c:\users\dell\source\repos\EnukeAssignment\EnukeAssignment\bin\Debug\EnukeAssignment.pdb
-c:\users\dell\source\repos\EnukeAssignment\EnukeAssignment\obj\Debug\EnukeAssignment.csprojAssemblyReference.cache
 c:\users\dell\source\repos\EnukeAssignment\EnukeAssignment\obj\Debug\EnukeAssignment.csproj.CoreCompileInputs.cache
 c:\users\dell\source\repos\EnukeAssignment\EnukeAssignment\obj\Debug\EnukeAssignment.exe
 c:\users\dell\source\repos\EnukeAssignment\EnukeAssignment\obj\Debug\EnukeAssignment.pdb
+C:\Users\DELL\source\repos\EnukeAssignment\EnukeAssignment\bin\Debug\EnukeAssignment.exe.CodeAnalysisLog.xml
+C:\Users\DELL\source\repos\EnukeAssignment\EnukeAssignment\bin\Debug\EnukeAssignment.exe.lastcodeanalysissucceeded
