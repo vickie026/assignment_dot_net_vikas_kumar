@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\bin\Debug\UTEnukeAssignement.dll
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\bin\Debug\UTEnukeAssignement.pdb
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\bin\Debug\EnukeAssignment.exe
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\bin\Debug\EnukeAssignment.pdb
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\bin\Debug\EnukeAssignment.exe.config
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\obj\Debug\UTEnukeAssignement.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\obj\Debug\UTEnukeAssignement.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\obj\Debug\UTEnukeAssignement.csproj.CopyComplete
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\obj\Debug\UTEnukeAssignement.dll
+C:\Users\DELL\source\repos\EnukeAssignment\UTEnukeAssignement\obj\Debug\UTEnukeAssignement.pdb
